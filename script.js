@@ -1,1 +1,0 @@
-// script.js con localStorage, exportaciones, y campos adicionales
