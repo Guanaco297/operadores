@@ -1,0 +1,1 @@
+// script con localStorage para Fundentes-calculadora (sin operador ni turno)
